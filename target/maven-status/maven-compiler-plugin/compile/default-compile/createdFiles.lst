@@ -1,0 +1,10 @@
+com/web/crawler/app/crawler/data/WebCrawlerResponse.class
+com/web/crawler/app/crawler/data/UrlStatus.class
+com/web/crawler/app/service/WebCrawlerService.class
+com/web/crawler/app/WebCrawlerApplication.class
+com/web/crawler/app/rest/WebCrawlerApi.class
+com/web/crawler/app/crawler/data/CrawlNode.class
+com/web/crawler/app/crawler/data/UrlData.class
+com/web/crawler/app/service/WebCrawlerServiceImpl.class
+com/web/crawler/app/rest/WebCrawlerController.class
+com/web/crawler/app/crawler/data/Details.class
